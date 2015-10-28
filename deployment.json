@@ -1,0 +1,17 @@
+{
+  "name" : "riak",
+  "display_name" : "Riak",
+  "version" : "0.1",
+  "type": ["zray"],
+  "logo": "logo.png",
+  "readme": "README.md",
+  "eula": "LICENSE",
+  "dependencies": {
+    "plugin": {
+        "min": "0.1"
+    },
+    "php": {
+      "min": "5.4.0"
+    }
+  }
+}

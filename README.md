@@ -1,6 +1,6 @@
 # Riak Zend Server Z-Ray Plugin
 
-This is a plugin to help you debug / profile your use of [Riak](http://basho.com/products/riak-kv/) within your PHP application using [Zend's Z-Ray](http://www.zend.com/en/products/server/z-ray) debugging tool.
+This is a plugin to help you debug / profile your use of [Riak](http://basho.com/products/riak-kv/) within your PHP application using [Zend's Z-Ray](http://www.zend.com/en/products/server/z-ray) debugging tool. This plugin uses Z-Ray's tracing functions to profile each request made to your Riak servers, giving you insight into what requests are being made, what data is included in those requests and how long those requests are taking from start to finish.
 
 1. [Installation](#installation)
 2. [Uninstallation](#uninstallation)
@@ -21,6 +21,7 @@ To uninstall this plugin, return to the "Manage Plugins" screen and click the tr
 Basho Labs repos survive because of community contribution. Review the details in [CONTRIBUTING.md](CONTRIBUTING.md) in order to give back to this project.
 
 ## License and Authors
+
 The riak-zend-zray project is Open Source software released under the Apache 2.0 License. Please see the [LICENSE](LICENSE) file for full license details.
 
 * Author: [Christopher Mancini](https://github.com/christophermancini)

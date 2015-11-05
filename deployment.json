@@ -1,6 +1,6 @@
 {
   "name" : "riak",
-  "display_name" : "Riak",
+  "display_name" : "Riak KV",
   "version" : "0.1",
   "type": ["zray"],
   "logo": "logo.png",

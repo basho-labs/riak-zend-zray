@@ -3,16 +3,17 @@
 This is a plugin to help you debug / profile your use of [Riak](http://basho.com/products/riak-kv/) within your PHP application using [Zend's Z-Ray](http://www.zend.com/en/products/server/z-ray) debugging tool. This plugin uses Z-Ray's tracing functions to profile each request made to your Riak servers, giving you insight into what requests are being made, what data is included in those requests and how long those requests are taking from start to finish.
 
 1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-2. [Uninstallation](#uninstallation)
-3. [Contributing](#contributing)
-4. [License and Authors](#license-and-authors)
-5. [Screenshots](#screenshots)
+1. [Installation](#installation)
+1. [Uninstallation](#uninstallation)
+1. [Contributing](#contributing)
+1. [License and Authors](#license-and-authors)
+1. [Screenshots](#screenshots)
 
 ## Prerequisites 
 
-  - Installed Riak server
-  - Riak client application
+  - Server(s) running [Riak KV](http://basho.com/products/riak-kv/) 2 or higher
+  - PHP 5.4 or higher
+  - End user application using the [Official Riak Client Library](https://github.com/basho/riak-php-client) version 2 or higher
   
 ## Installation
 

@@ -9,12 +9,12 @@ This is a plugin to help you debug / profile your use of [Riak](http://basho.com
 1. [License and Authors](#license-and-authors)
 1. [Screenshots](#screenshots)
 
-## Prerequisites 
+## Prerequisites
 
   - Server(s) running [Riak KV](http://basho.com/products/riak-kv/) 2 or higher
   - PHP 5.4 or higher
-  - End user application using the [Official Riak Client Library](https://github.com/basho/riak-php-client) version 2 or higher
-  
+  - End user application using the [Official Riak Client Library](https://github.com/basho/riak-php-client) version 2.1 or higher
+
 ## Installation
 
 To install this plugin, simply download the *.zpk* file attached to a release, navigate within your ZendServer GUI to "Plugins" -> "Manage Plugins", click "Deploy Plugin" and follow the on-screen prompts within the modal window.

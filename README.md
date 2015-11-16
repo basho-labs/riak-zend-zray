@@ -17,7 +17,9 @@ This is a plugin to help you debug / profile your use of [Riak](http://basho.com
 
 ## Installation
 
-To install this plugin, simply download the *.zpk* file attached to a release, navigate within your ZendServer GUI to "Plugins" -> "Manage Plugins", click "Deploy Plugin" and follow the on-screen prompts within the modal window.
+The simplest way to get the plugin is through the Zend Server plugin gallery within the GUI. Navigate to "Plugins" -> "Gallery", search for "riak", then click install and follow the on-prompts.
+
+To manually install this plugin, download the *.zpk* file attached to a release, navigate within your ZendServer GUI to "Plugins" -> "Manage Plugins", click "Deploy Plugin" and follow the on-screen prompts within the modal window.
 
 ## Uninstallation
 

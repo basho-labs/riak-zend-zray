@@ -23,7 +23,7 @@ To manually install this plugin, download the *.zpk* file attached to a release,
 
 ## Uninstallation
 
-To uninstall this plugin, return to the "Manage Plugins" screen and click the trash can for the item listed as "Riak".
+To uninstall this plugin, return to the "Manage Plugins" screen and click the trash can for the item listed as "Riak KV".
 
 ## Contributing
 
